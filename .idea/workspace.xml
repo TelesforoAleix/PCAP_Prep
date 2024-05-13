@@ -4,20 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83b0804-c65d-4c13-9eb0-92d92251abfb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/api/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_08/Ejemplo_Operadores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_08/Ejemplo_identificadores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_08/Ejemplos_Comentarios_.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_08/__init__.py" afterDir="false" />
+    <list default="true" id="a83b0804-c65d-4c13-9eb0-92d92251abfb" name="Changes" comment="First lesson for PCAP, introduction and language fundamentals.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "TelesforoAleix"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/TelesforoAleix/PCAP_Prep.git",
+    "accountId": "e605d690-7c02-48c9-830c-96a9c0efd891"
+  }
+}]]></component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_08/Ejemplo_Operadores_Aritmeticos.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_08/Ejemplo_identificadores.py" root0="SKIP_INSPECTION" />
@@ -77,6 +77,15 @@
       <option name="presentableId" value="Default" />
       <updated>1715193644483</updated>
     </task>
+    <task id="LOCAL-00001" summary="First lesson for PCAP, introduction and language fundamentals.">
+      <option name="closed" value="true" />
+      <created>1715199116101</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715199116101</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -92,5 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First lesson for PCAP, introduction and language fundamentals." />
+    <option name="LAST_COMMIT_MESSAGE" value="First lesson for PCAP, introduction and language fundamentals." />
   </component>
 </project>
