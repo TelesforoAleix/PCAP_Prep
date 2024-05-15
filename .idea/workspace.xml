@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83b0804-c65d-4c13-9eb0-92d92251abfb" name="Changes" comment="First lesson for PCAP, introduction and language fundamentals.">
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/Ejemplo_1_Funciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/Ejemplo_2_Funciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/Ejemplo_3_Funciones.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/bucles/while/Adivina_Numero.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/sentencia_if/Exercice_7_if.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a83b0804-c65d-4c13-9eb0-92d92251abfb" name="Changes" comment="Second lesson for PCAP with literals, logical operations and if else statements.&#10;First draft of Functions" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,22 +50,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Adivina_Numero.executor": "Run",
-    "Python.Ejemplo_1_For.executor": "Run",
-    "Python.Ejemplo_1_Funciones.executor": "Run",
-    "Python.Ejemplo_2_Funciones.executor": "Run",
-    "Python.Ejemplo_3_Funciones.executor": "Run",
-    "Python.Ejercicio_7_While.executor": "Run",
-    "Python.Exercice_7_if.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Adivina_Numero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo_1_For.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo_1_Funciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo_2_Funciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo_3_Funciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio_7_While.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercice_7_if.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\34676\Documents\Code\Python\Course\curso\modulo1\ejercicios\2024_05_13" />
@@ -240,7 +232,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715616156403</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Second lesson for PCAP with literals, logical operations and if else statements.&#10;First draft of Functions">
+      <option name="closed" value="true" />
+      <created>1715630542373</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715630542373</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -257,6 +257,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First lesson for PCAP, introduction and language fundamentals." />
-    <option name="LAST_COMMIT_MESSAGE" value="First lesson for PCAP, introduction and language fundamentals." />
+    <MESSAGE value="Second lesson for PCAP with literals, logical operations and if else statements.&#10;First draft of Functions" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second lesson for PCAP with literals, logical operations and if else statements.&#10;First draft of Functions" />
   </component>
 </project>
