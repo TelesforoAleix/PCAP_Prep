@@ -4,7 +4,58 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83b0804-c65d-4c13-9eb0-92d92251abfb" name="Changes" comment="Second lesson for PCAP with literals, logical operations and if else statements.&#10;First draft of Functions" />
+    <list default="true" id="a83b0804-c65d-4c13-9eb0-92d92251abfb" name="Changes" comment="4th lesson initial documents, lists and comprenhension">
+      <change afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/api/Cadena.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/api/Mates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/colecciones/Ejemplos_Colecciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/ConjuntosPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/DiccionariosPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/Ejemplo_1_Colecciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/Ejemplos_Colecciones.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/ListasPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/MatricesPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/TuplasPython.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/comprenhension/Ejemplo_1_Comprenhension_Conjuntos.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/comprenhension/Ejemplo_1_Comprenhension_Diccionarios.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/comprenhension/Ejemplo_1_Comprenhension_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/comprenhension/Ejemplo_2_Comprenhension_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/comprenhension/Ejercicio_1_Comprenhension_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/comprenhension/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejemplo_11_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejemplo_1_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejemplo_1_Matrices.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejemplo_2_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejemplo_3_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejemplo_4_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejemplo_5_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejemplo_6_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejemplo_7_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejemplo_8_Listas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_10_finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_11_else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_12_finally.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_7_raise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_8_raise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_9_assert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_ExcepcionesPersonalizadas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/Ejemplo_Exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/excepciones/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/sistema/ModuloOS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/sistema/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/funciones/Ejemplos_ParametrosClaveValor.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/funciones/Ejemplos_ParametrosClaveValor.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,12 +105,17 @@
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
     &quot;Python.Adivina_Numero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cadena.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ejemplo_1_For.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ejemplo_1_Funciones.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ejemplo_2_Funciones.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ejemplo_3_Funciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo_Cadenas_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplos_Colecciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplos_ParametrosClaveValor.executor&quot;: &quot;Run&quot;,
     &quot;Python.Ejercicio_7_While.executor&quot;: &quot;Run&quot;,
     &quot;Python.Exercice_7_if.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mates.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
@@ -68,11 +124,13 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\34676\Documents\Code\Python\Course\curso\modulo1\ejercicios" />
+      <recent name="C:\Users\34676\Documents\Code\Python\Course\curso\api" />
       <recent name="C:\Users\34676\Documents\Code\Python\Course\curso\modulo1\ejercicios\2024_05_13" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ejemplo_3_Funciones">
-    <configuration name="Adivina_Numero" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ejemplos_Colecciones">
+    <configuration name="Cadena" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -81,11 +139,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/bucles/while" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/api" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/bucles/while/Adivina_Numero.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/api/Cadena.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +152,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejemplo_1_Funciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ejemplo_Cadenas_Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -103,11 +161,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/cadenas" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/Ejemplo_1_Funciones.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/cadenas/Ejemplo_Cadenas_Python.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +174,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejemplo_2_Funciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ejemplos_Colecciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,11 +183,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/colecciones" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/Ejemplo_2_Funciones.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/colecciones/Ejemplos_Colecciones.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -138,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejemplo_3_Funciones" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ejemplos_ParametrosClaveValor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,11 +205,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/funciones" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/Ejemplo_3_Funciones.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/funciones/Ejemplos_ParametrosClaveValor.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +218,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejercicio_7_While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Mates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,11 +227,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/bucles/while" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/funciones" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_13/bucles/while/Ejercicio_7_While.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\34676\Documents\Code\Python\Course\curso\api\Mates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,11 +242,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ejemplo_3_Funciones" />
-        <item itemvalue="Python.Ejemplo_2_Funciones" />
-        <item itemvalue="Python.Ejemplo_1_Funciones" />
-        <item itemvalue="Python.Adivina_Numero" />
-        <item itemvalue="Python.Ejercicio_7_While" />
+        <item itemvalue="Python.Ejemplos_Colecciones" />
+        <item itemvalue="Python.Cadena" />
+        <item itemvalue="Python.Ejemplo_Cadenas_Python" />
+        <item itemvalue="Python.Ejemplos_ParametrosClaveValor" />
+        <item itemvalue="Python.Mates" />
       </list>
     </recent_temporary>
   </component>
@@ -240,7 +298,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715630542373</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="third lesson initial files">
+      <option name="closed" value="true" />
+      <created>1715790050239</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715790050239</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -258,6 +324,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="First lesson for PCAP, introduction and language fundamentals." />
     <MESSAGE value="Second lesson for PCAP with literals, logical operations and if else statements.&#10;First draft of Functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second lesson for PCAP with literals, logical operations and if else statements.&#10;First draft of Functions" />
+    <MESSAGE value="third lesson initial files" />
+    <MESSAGE value="4th lesson initial documents, lists and comprenhension" />
+    <option name="LAST_COMMIT_MESSAGE" value="4th lesson initial documents, lists and comprenhension" />
   </component>
 </project>

@@ -1,13 +1,15 @@
 # Funciones con argumentos o parámetros en formato de clave y valor
 # Usando doble ** es posible también tener como parámetro de entrada
 # una lista de elementos almacenados en forma de clave y valor.
-def suma_valores(**kwargs):
+def suma_valores(*args, **kwargs): # - ** solo se puede usar una vez y es el último
     suma = 0;
     for key, value in kwargs.items():
         print(key, value)
         suma += value
+    for value in args:
+        suma += value
     return suma
-
+# kwargs is of type dict y tiene siempre key and value
 
 rdo1 = suma_valores(a=10, b=20)
 rdo2 = suma_valores(v=50, h=20, m=30)
@@ -18,6 +20,11 @@ print("suma_valores -> rdo3 =>", rdo3)
 
 print('-' * 80)
 
+rdo4 = suma_valores(1, 2, 3, 4, v=6, h=8, m=9)
+rdo5 = suma_valores(1, 2, 3, 4)
+
+print("rdo4 => ", rdo4)
+print("rdo5 => ", rdo5)
 
 # Las funciones con parámetros de clave/valor también se pueden
 # combinar con parámetros por posición
