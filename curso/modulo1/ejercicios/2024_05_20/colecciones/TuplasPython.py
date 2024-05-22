@@ -57,6 +57,15 @@ print(cociente)
 print(resta)
 print(mayor)
 
+cociente, _, mayor = (2.5, 10, False)
+print(cociente)
+print(mayor)
+
+r1 = 8
+r2 = 4
+r3 = 7
+nueva = r1, r2, r3
+print(type(nueva), nueva)
 
 # Comprobar si un determinado valor está en una tupla
 tupla = (1,2,2,1,1,1,1)

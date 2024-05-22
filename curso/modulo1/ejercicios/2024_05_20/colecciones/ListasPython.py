@@ -14,7 +14,7 @@ numeros_lista = [2,3,4,5,6]
 numeros_edades = [34, 45, 20, 19, 19, 54, 43, 26, 28]
 vacia = []
 
-# Crear una lista por medio de la función 'list'
+# Crear una lista por medio de la función 'list' [Tiene que ser una cadena de texto "colección"].
 vocales = list('aeiou')
 print("Lista vocales =>", vocales)
 numeros = list('1234')
@@ -106,11 +106,18 @@ print("(pop negativo) Valores de la lista =>", lista)
 
 print('-' * 80)
 
+list_animals = ['cat', 'dog', 'fish', 'hipo']
+list_animals.append('cow')
+print(list_animals)
+animal_raro = list_animals.pop()
+print(animal_raro)
+print(list_animals)
+
 # Eliminar un elemento por medio de la función 'remove'
 # La función remove elimina el primer elemento que encuentre
 # de la lista, en caso de que haya elementos repetidos.
 # En caso de que no encuentre el elemento lanza una excepción
-lista.remove(4)
+lista.remove(4)     # Elimina el primer elemento que encuentre con ese valor
 print("(remove) Valores de la lista =>", lista)
 
 print('-' * 80)
@@ -172,7 +179,7 @@ print('-' * 80)
 
 # Obtener la posición de un determinado elemento dentro de la lista
 # Si no encuentra el elemento lanza una excepción
-posicion = lista.index(13)
+posicion = lista.index(4)
 print("(posición elemento) Posición =>", posicion)
 
 # Obtener la posición de un determinado elemento dentro de la lista
@@ -190,6 +197,7 @@ print("(posición elemento) Posición =>", posicion)
 print('-' * 80)
 
 # Ordenar una lista de manera ascendente
+# [puede almacenar una función como key para ordernar]
 orden = lista.sort()
 print("(ordenar ascendente) Valores de la lista =>", lista)
 

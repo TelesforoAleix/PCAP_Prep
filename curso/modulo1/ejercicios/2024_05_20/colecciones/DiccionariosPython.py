@@ -65,8 +65,9 @@ for clave in dicc:
     print("Valor =>", dicc[clave])
 
 # Mostrar el key y el value a la vez.
+# dicc.items() = [(k,v), (k,v), (kv), (k,v)]
 for x, y in dicc.items():
-    print("Clave =>",x, "Valor=>", y)
+    print("Clave =>",x, "||  Valor=>", y)
 
 print('-' * 80)
 
