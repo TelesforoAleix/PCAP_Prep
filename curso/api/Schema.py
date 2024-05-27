@@ -1,0 +1,5 @@
+SCHEMA_PROVINCIAS = {}
+SCHEMA_PROVINCIAS['id'] = int
+SCHEMA_PROVINCIAS['provincia'] = str
+SCHEMA_PROVINCIAS['id_ccaa'] = int
+

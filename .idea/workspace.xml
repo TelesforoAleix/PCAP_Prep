@@ -4,20 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83b0804-c65d-4c13-9eb0-92d92251abfb" name="Changes" comment="4th lesson initial documents, lists and comprenhension">
-      <change afterPath="$PROJECT_DIR$/curso/api/Ficheros.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/api/Texto.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejercicio_1_Listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/listas/Ejercicio_2_Listas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2025_05_22/Ejercicio_Contar_Palabras.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2025_05_22/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2025_05_22/ejercicios/Ejercicio_Datos_Archivos.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2025_05_22/ejercicios/Ejercicio_Listar_Ficheros.py" afterDir="false" />
+    <list default="true" id="a83b0804-c65d-4c13-9eb0-92d92251abfb" name="Changes" comment="5th lesson recursive errors, file management and exceptions">
+      <change afterPath="$PROJECT_DIR$/curso/api/Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/api/Schema.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/data/apellidos.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/data/ccaa.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/data/housing.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/data/jena_climate_2009_2016.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/data/nombres.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/data/poblaciones.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/data/provincias.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/Ejercicio_Crear_Esquema_Provincias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/Ejercicio_Crear_Nombres_Personas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/Ejercicio_Generador_Personas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/Leer_Archivo_Provincias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/funciones/Ejemplos_Recursividad.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_15/funciones/Ejemplos_Recursividad.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/DiccionariosPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/DiccionariosPython.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/ListasPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/ListasPython.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/TuplasPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso/modulo1/ejercicios/2024_05_20/colecciones/TuplasPython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/curso/api/Ficheros.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso/api/Ficheros.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +78,7 @@
     "Python.DiccionariosPython.executor": "Run",
     "Python.Ejemplo_1_For.executor": "Run",
     "Python.Ejemplo_1_Funciones.executor": "Run",
+    "Python.Ejemplo_1_LeerArchivo.executor": "Run",
     "Python.Ejemplo_2_Funciones.executor": "Run",
     "Python.Ejemplo_3_Funciones.executor": "Run",
     "Python.Ejemplo_Cadenas_Python.executor": "Run",
@@ -84,9 +89,12 @@
     "Python.Ejercicio_2_Listas.executor": "Run",
     "Python.Ejercicio_7_While.executor": "Run",
     "Python.Ejercicio_Contar_Palabras.executor": "Run",
+    "Python.Ejercicio_Crear_Esquema_Provincias.executor": "Run",
+    "Python.Ejercicio_Crear_Nombres_Personas.executor": "Run",
     "Python.Ejercicio_Datos_Archivos.executor": "Run",
     "Python.Exercice_7_if.executor": "Run",
     "Python.Ficheros.executor": "Run",
+    "Python.Leer_Archivo_Provincias.executor": "Run",
     "Python.ListasPython.executor": "Run",
     "Python.Mates.executor": "Run",
     "Python.Texto.executor": "Run",
@@ -99,15 +107,15 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\34676\Documents\Code\Python\Course\curso\data" />
       <recent name="C:\Users\34676\Documents\Code\Python\Course\curso" />
       <recent name="C:\Users\34676\Documents\Code\Python\Course\curso\modulo1\ejercicios\2025_05_22" />
       <recent name="C:\Users\34676\Documents\Code\Python\course" />
       <recent name="C:\Users\34676\Documents\Code\Python\Course\curso\modulo1\ejercicios" />
-      <recent name="C:\Users\34676\Documents\Code\Python\Course\curso\api" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Ejercicio_Datos_Archivos">
-    <configuration name="Descomponer_Colecciones_Python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Ejercicio_Crear_Nombres_Personas">
+    <configuration name="Ejemplo_1_LeerArchivo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2025_05_22/colecciones" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/textos" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2025_05_22/colecciones/Descomponer_Colecciones_Python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/textos/Ejemplo_1_LeerArchivo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ejercicio_Contar_Palabras" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ejercicio_Crear_Esquema_Provincias" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +146,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2025_05_22" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo1/ejercicios/2025_05_22/Ejercicio_Contar_Palabras.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/Ejercicio_Crear_Esquema_Provincias.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ejercicio_Crear_Nombres_Personas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Course" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/Ejercicio_Crear_Nombres_Personas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ficheros" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Leer_Archivo_Provincias" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Course" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,33 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/api" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/api/Ficheros.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Texto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Course" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/curso/api" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/api/Texto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/Leer_Archivo_Provincias.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Ejercicio_Crear_Nombres_Personas" />
+        <item itemvalue="Python.Ejercicio_Crear_Esquema_Provincias" />
+        <item itemvalue="Python.Leer_Archivo_Provincias" />
+        <item itemvalue="Python.Ejemplo_1_LeerArchivo" />
         <item itemvalue="Python.Ejercicio_Datos_Archivos" />
-        <item itemvalue="Python.Ficheros" />
-        <item itemvalue="Python.Descomponer_Colecciones_Python" />
-        <item itemvalue="Python.Texto" />
-        <item itemvalue="Python.Ejercicio_Contar_Palabras" />
       </list>
     </recent_temporary>
   </component>
@@ -291,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716221482888</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="5th lesson recursive errors, file management and exceptions">
+      <option name="closed" value="true" />
+      <created>1716407882187</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1716407882189</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -311,6 +327,7 @@
     <MESSAGE value="Second lesson for PCAP with literals, logical operations and if else statements.&#10;First draft of Functions" />
     <MESSAGE value="third lesson initial files" />
     <MESSAGE value="4th lesson initial documents, lists and comprenhension" />
-    <option name="LAST_COMMIT_MESSAGE" value="4th lesson initial documents, lists and comprenhension" />
+    <MESSAGE value="5th lesson recursive errors, file management and exceptions" />
+    <option name="LAST_COMMIT_MESSAGE" value="5th lesson recursive errors, file management and exceptions" />
   </component>
 </project>

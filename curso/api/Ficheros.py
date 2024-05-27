@@ -36,3 +36,22 @@ def data_dir(dir, recursive=False):
         registro['create'] = dt.datetime.fromtimestamp(os.path.getctime(registro['file']))
         lista.append(registro)
     return lista
+
+def list_file_text(filename, encoding='utf-8'):
+    try:
+        with open(filename, 'r', encoding=encoding) as fichero:
+            lista = fichero.readlines()
+        return lista
+    except:
+        lista = []
+    return lista
+
+
+def file_text(filename, encoding='utf-8'):
+    try:
+        with open(filename, 'r', encoding=encoding) as fichero:
+            texto = fichero.readlines()
+        return texto
+    except:
+        texto = ''
+    return texto
