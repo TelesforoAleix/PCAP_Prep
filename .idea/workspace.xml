@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a83b0804-c65d-4c13-9eb0-92d92251abfb" name="Changes" comment="5th lesson recursive errors, file management and exceptions">
-      <change afterPath="$PROJECT_DIR$/curso/api/Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/api/Schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/data/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/data/apellidos.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/data/ccaa.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/data/housing.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/data/jena_climate_2009_2016.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/data/nombres.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/data/poblaciones.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/data/provincias.data" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/Ejercicio_Crear_Esquema_Provincias.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/Ejercicio_Crear_Nombres_Personas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/Ejercicio_Generador_Personas.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/Leer_Archivo_Provincias.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso/modulo5/_2024_05_27/archivos/ejercicios/__init__.py" afterDir="false" />
+    <list default="true" id="a83b0804-c65d-4c13-9eb0-92d92251abfb" name="Changes" comment="6th lesson file access and CSV data usage">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/curso/api/Ficheros.py" beforeDir="false" afterPath="$PROJECT_DIR$/curso/api/Ficheros.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,43 +52,43 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Python.Adivina_Numero.executor": "Run",
-    "Python.Cadena.executor": "Run",
-    "Python.ConjuntosPython.executor": "Run",
-    "Python.Descomponer_Colecciones_Python.executor": "Run",
-    "Python.DiccionariosPython.executor": "Run",
-    "Python.Ejemplo_1_For.executor": "Run",
-    "Python.Ejemplo_1_Funciones.executor": "Run",
-    "Python.Ejemplo_1_LeerArchivo.executor": "Run",
-    "Python.Ejemplo_2_Funciones.executor": "Run",
-    "Python.Ejemplo_3_Funciones.executor": "Run",
-    "Python.Ejemplo_Cadenas_Python.executor": "Run",
-    "Python.Ejemplos_Colecciones.executor": "Run",
-    "Python.Ejemplos_ParametrosClaveValor.executor": "Run",
-    "Python.Ejemplos_Recursividad.executor": "Run",
-    "Python.Ejercicio_1_Listas.executor": "Run",
-    "Python.Ejercicio_2_Listas.executor": "Run",
-    "Python.Ejercicio_7_While.executor": "Run",
-    "Python.Ejercicio_Contar_Palabras.executor": "Run",
-    "Python.Ejercicio_Crear_Esquema_Provincias.executor": "Run",
-    "Python.Ejercicio_Crear_Nombres_Personas.executor": "Run",
-    "Python.Ejercicio_Datos_Archivos.executor": "Run",
-    "Python.Exercice_7_if.executor": "Run",
-    "Python.Ficheros.executor": "Run",
-    "Python.Leer_Archivo_Provincias.executor": "Run",
-    "Python.ListasPython.executor": "Run",
-    "Python.Mates.executor": "Run",
-    "Python.Texto.executor": "Run",
-    "Python.TuplasPython.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "terminal"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Python.Adivina_Numero.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Cadena.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConjuntosPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Descomponer_Colecciones_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DiccionariosPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo_1_For.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo_1_Funciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo_1_LeerArchivo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo_2_Funciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo_3_Funciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplo_Cadenas_Python.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplos_Colecciones.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplos_ParametrosClaveValor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejemplos_Recursividad.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio_1_Listas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio_2_Listas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio_7_While.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio_Contar_Palabras.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio_Crear_Esquema_Provincias.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio_Crear_Nombres_Personas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ejercicio_Datos_Archivos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercice_7_if.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Ficheros.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Leer_Archivo_Provincias.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ListasPython.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Mates.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Texto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TuplasPython.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\34676\Documents\Code\Python\Course\curso\data" />
@@ -307,7 +291,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716407882189</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="6th lesson file access and CSV data usage">
+      <option name="closed" value="true" />
+      <created>1716840629650</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716840629650</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -328,6 +320,7 @@
     <MESSAGE value="third lesson initial files" />
     <MESSAGE value="4th lesson initial documents, lists and comprenhension" />
     <MESSAGE value="5th lesson recursive errors, file management and exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="5th lesson recursive errors, file management and exceptions" />
+    <MESSAGE value="6th lesson file access and CSV data usage" />
+    <option name="LAST_COMMIT_MESSAGE" value="6th lesson file access and CSV data usage" />
   </component>
 </project>

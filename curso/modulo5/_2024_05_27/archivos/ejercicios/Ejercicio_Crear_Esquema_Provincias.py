@@ -17,6 +17,8 @@ def data_record(filename):
     return records
 
 
+
+
 data = data_record('C:\\Users\\34676\\Documents\\Code\\Python\\Course\\curso\\data\\provincias.data')
 for d in data:
     print(d)
